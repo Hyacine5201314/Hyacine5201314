@@ -1,2 +1,2 @@
 ![Metrics](/github-metrics.svg)
-![Metrics](/.svg)
+![Metrics](Image_1732284207150.jpg)
