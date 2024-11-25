@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reko-beep/hsr-data</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Honkai star rail data from starrailstation.com</div>
@@ -417,7 +417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IceDynamix/reliquary-archiver</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tool to create a relic export from network packets of a certain turn-based anime game</div>
@@ -600,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 06:17:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 07:19:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
